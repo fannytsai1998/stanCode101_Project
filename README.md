@@ -1,6 +1,6 @@
 ## stanCode101_Project
-Hello World!/
-This is repository holds my programing projects done during the period of stancode SC101 class./
+Hello World!\
+This is repository holds my programing projects done during the period of stancode SC101 class.
 
 Whatch *[Demo video!](https://drive.google.com/drive/folders/1Z-WHGNbWcp24K0KiaFs7oay2rMmOZ94h?usp=sharing)*
 
