@@ -12,7 +12,7 @@ Whatch *[Demo video!](https://drive.google.com/drive/folders/1Z-WHGNbWcp24K0KiaF
 - [Popular name searching system](https://github.com/fannytsai1998/stanCode101_Project/tree/main/stanCode101_project%20/name_searching)
   - Data structure 
 - [Boggle game slover](https://github.com/fannytsai1998/stanCode101_Project/tree/main/stanCode101_project%20/boggle)
- - Recursive fuctions 
+  - Recursive fuctions 
 
 
 
